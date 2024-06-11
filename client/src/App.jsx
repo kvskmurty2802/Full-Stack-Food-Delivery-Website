@@ -1,13 +1,10 @@
 import './App.css';
-import Navbar from './main/Navbar';
-import Footer from './main/Footer';
-import '@fortawesome/fontawesome-free/css/all.css';
+import Home from './components/Home'
 
 function App() {
   return (
     <>
-    <Navbar/>
-    <Footer/>
+      <Home/>
     </>
   )
 }
