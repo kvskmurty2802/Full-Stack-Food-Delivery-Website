@@ -1,0 +1,11 @@
+{
+  "name": "full-stack-food-delivery-website",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">Weather Page</h2>\r <p align=\"center\">\r An Awesome Web Application powered by the OpenWeather API to fetch Weather Data.\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev --prefix client"
+  },
+  "author": "",
+  "license": "ISC"
+}
