@@ -6,6 +6,7 @@
     background: url('../../assets/header_img.png') no-repeat;
     background-size: contain;
     position: relative;
+    margin-bottom: 70px;
 }
 
 .header-contents{
